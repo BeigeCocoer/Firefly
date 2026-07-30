@@ -6,7 +6,7 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "箱庭世界·尤雷忒",
+	title: "绘川小姐の博客",
 
 	// 站点副标题
 	subtitle: "欢迎回来 绘川小姐",
@@ -20,13 +20,13 @@ export const siteConfig: SiteConfig = {
 
 	// 站点关键词
 	keywords: [
-		"世界伊始？",
-		"旧世界",
-		"术语设定",
-		"平凡又传奇的生灵们",
-		"境界魔法树",
-		"其他",
-		"相关留言",
+		"a",
+		"b",
+		"c",
+		"d",
+		"e",
+		"f",
+		"g",
 	],
 
 	// 主题色
