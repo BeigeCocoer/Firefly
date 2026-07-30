@@ -18,7 +18,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 	// 文章及其子菜单
 	links.push({
-		name: "文章",
+		name: "编年史",
 		url: "#",
 		icon: "material-symbols:article",
 		children: [
@@ -35,7 +35,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 	//社交及其子菜单
 	links.push({
-		name: "社交",
+		name: "世界",
 		url: "#",
 		icon: "material-symbols:group",
 		children: [
@@ -49,7 +49,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 	// 我的及其子菜单
 	links.push({
-		name: "我的",
+		name: "职业",
 		url: "#",
 		icon: "material-symbols:person",
 		children: [
@@ -69,7 +69,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 	// 关于及其子菜单
 	links.push({
-		name: "关于",
+		name: "人物",
 		url: "#",
 		icon: "material-symbols:info",
 		children: [
@@ -83,7 +83,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 	// 自定义导航栏链接
 	links.push({
-		name: "链接",
+		name: "故事",
 		url: "#",
 		icon: "material-symbols:link",
 		// 子菜单
